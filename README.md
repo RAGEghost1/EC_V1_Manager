@@ -1,3 +1,5 @@
+[![CI](https://github.com?RAGEghost1/EC_V1_Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/RAGEghost1/EC_V1_Manager/actions)
+
 # EC_V1_Manager
 
 The **EC_V1_Manager** is the core automation system responsible for:
