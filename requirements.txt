@@ -1,0 +1,7 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
