@@ -27,3 +27,9 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+
+# Ignore HDX Python environment
+D:/HDX_env/Python311/
+
+# Temporary files
+*.tmp
