@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ec_manager"
+version = "0.1.0"
+description = "EC Manager project"
+authors = [
+    { name = "Harnish HDX" }
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+
