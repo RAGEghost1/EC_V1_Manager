@@ -38,6 +38,7 @@ jobs:
           # pip install -e .
 
       - name: Run tests with pytest
-        run: pytest -q --tb=short
+        run: |
+          PYTHONPATH=. pytest -q --tb=short
 
         
